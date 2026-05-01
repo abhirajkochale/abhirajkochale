@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:000000&height=250&section=header&text=ABHIRAJ%20KOCHALE&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Banner" width="100%" />
-
-<!-- Animated Typing Text -->
+<!-- Huge Interactive Typing Name Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+ML+Enthusiast;Building+Scalable+Web+Platforms;Training+Machine+Learning+Models;Crafting+Cross-Platform+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=120&lines=👋+Hi,+I'm+Abhiraj+Kochale;🚀+Full-Stack+Developer;🧠+Machine+Learning+Enthusiast" alt="Interactive Name Banner" />
 </a>
 
 <br/>
@@ -22,9 +19,12 @@
   <a href="mailto:kochaleabhiraj@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<!-- Animated line separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
+
 </div>
 
----
+<br/>
 
 ## 💻 Tech Stack & Arsenal
 
