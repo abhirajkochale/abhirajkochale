@@ -1,8 +1,11 @@
 <div align="center">
 
-<!-- Huge Interactive Typing Name Banner -->
+<!-- Huge Interactive Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ABHIRAJ%20KOCHALE&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Banner" width="100%" />
+
+<!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=120&lines=👋+Hi,+I'm+Abhiraj+Kochale;🚀+Full-Stack+Developer;🧠+Machine+Learning+Enthusiast" alt="Interactive Name Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,9 +21,6 @@
   <a href="https://www.linkedin.com/in/abhiraj-kochale-543284309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kochaleabhiraj@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<!-- Animated line separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 
 </div>
 
