@@ -1,82 +1,106 @@
-```markdown
-# [ SYSTEM INITIALIZATION ]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ABHIRAJ%20KOCHALE&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Banner" />
 
-> **ABHIRAJ_OS v2.0**
-> 
-> `Boot Sequence Initiated...`
-> `Loading Core Modules...`
-> `Status: Online`
-> `Location: Mumbai, India`
+  <h2>👋 Hi, I'm Abhiraj</h2>
+  <p><b>Software Developer & ML Enthusiast based in Mumbai, India</b></p>
 
-**I engineer scalable web platforms and train machine learning models.**
-
-Welcome to my personal operating system. I am Abhiraj Kochale, a Software Developer and Machine Learning Enthusiast focused on building intelligent, high-performance applications that solve real-world problems.
-
----
-
-## // CORE MODULES
-
-`[MODULE: FRONTEND]`  
-React, TypeScript, Tailwind CSS, Vite, HTML5/CSS3
-
-`[MODULE: BACKEND & INFRASTRUCTURE]`  
-Node.js, Supabase, PostgreSQL, Capacitor, REST APIs
-
-`[MODULE: MACHINE LEARNING & AI]`  
-Python, Sentence-Transformers, OpenCV, Streamlit, Scikit-Learn
-
-`[MODULE: LOW-LEVEL & ALGORITHMS]`  
-C, C++, Data Structures, Simulation
-
----
-
-## // LIVE SYSTEMS
-
-**Active deployments currently serving traffic in production.**
-
-🔹 [**Expenzo**](https://expenzo-kappa.vercel.app/)  
-An AI-powered financial assistant and intelligent expense tracker designed for seamless personal finance management.
-
-🔹 [**Awesome Kids Parents Portal**](https://awesomekids-parents-portal.vercel.app/)  
-A comprehensive, secure preschool management system built to handle admissions, parent engagement, and school operations.
-
-🔹 [**Awesome Kids Preschool Website**](https://awesome-kids.vercel.app/)  
-The public-facing, highly optimized platform for the Awesome Kids institution.
-
----
-
-## // ACTIVE BUILDS
-
-**Local environments and machine learning models currently compiling.**
-
-- **AI Resume Screening Tool:** A semantic search engine utilizing sentence-transformers to rank candidate resumes (PDFs) against specific job descriptions.
-- **Face Mask Detection System:** A real-time computer vision pipeline powered by OpenCV and CNNs to identify mask compliance via live video feed.
-- **Fake News Detection:** An NLP-based classification system leveraging TF-IDF and Naive Bayes to evaluate article authenticity.
-
----
-
-## // RUNNING PROCESSES
-
-`Current Focus:`  
-Optimizing cross-platform mobile experiences with React & Capacitor, and exploring advanced architectural patterns for scalable machine learning deployments in the cloud.
-
----
-
-## // SYSTEM METRICS
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirajkochale&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="System Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajkochale&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Language Metrics" height="150" />
+  <p>
+    <a href="https://github.com/abhirajkochale"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/abhirajkochale"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-## // ESTABLISH CONNECTION
+### 🚀 About Me
 
-`[PORT: LINKEDIN]`  ➡ [linkedin.com/in/abhirajkochale](#)  
-`[PORT: EMAIL]`     ➡ [Mailing Protocol](#)  
-`[PORT: GITHUB]`    ➡ [github.com/abhirajkochale](https://github.com/abhirajkochale)
+I build useful, cool apps that solve everyday problems. I enjoy turning simple ideas into robust products that people actually use, seamlessly bridging the gap between Machine Learning and modern Full-Stack architectures.
 
-> `Session Terminated.`  
-> `Standing by...`
-```
+---
+
+### 🛠️ Currently Building
+
+- **Awesome Parents Portal** — A cross-platform web and native Android application handling admissions for 150+ parents.
+- **Expenzo** — An intelligent personal finance assistant and tracking dashboard.
+- Experimenting with real-time computer vision pipelines and NLP semantic search models.
+
+---
+
+### 🧰 My Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛠️ Tools & Platforms</h4>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+#### ⚙️ Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+---
+
+### 🌐 Live Projects
+
+Check out these deployed applications running in production right now:
+
+<a href="https://expenzo-kappa.vercel.app/"><img src="https://img.shields.io/badge/Expenzo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Expenzo" /></a>
+<a href="https://awesomekids-parents-portal.vercel.app/"><img src="https://img.shields.io/badge/Parents_Portal-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Parents Portal" /></a>
+<a href="https://awesome-kids.vercel.app/"><img src="https://img.shields.io/badge/Preschool_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Preschool Website" /></a>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/Expenzo">💳 Expenzo</a></h4>
+      <p>An intelligent financial assistant and expense tracker to keep your wallet happy.</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/AI-resume-screening">📄 AI Resume Screening</a></h4>
+      <p>Semantic search engine utilizing sentence-transformers to rank candidate resumes.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/fake_news_detector">📰 Fake News Detection</a></h4>
+      <p>NLP classification system using TF-IDF and Naive Bayes to verify articles.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/Face_Mask_Detection_System">😷 Face Mask Detection</a></h4>
+      <p>Real-time computer vision pipeline identifying mask compliance via live feeds.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirajkochale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajkochale&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
