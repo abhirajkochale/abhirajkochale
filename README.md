@@ -1,33 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=ABHIRAJ%20KOCHALE&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Banner" />
 
-  <h2>👋 Hi, I'm Abhiraj</h2>
-  <p><b>Software Developer & ML Enthusiast based in Mumbai, India</b></p>
+  <!-- A stunning, edge-to-edge dark gradient banner with your name -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1E1E2E&height=250&section=header&text=ABHIRAJ%20KOCHALE&fontSize=80&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Abhiraj Kochale Banner" width="100%" />
 
+  <br/><br/>
+
+  <h2><code>👋 Hi there! I'm Abhiraj</code></h2>
+  
+  <p>Building intelligent systems and beautifully scalable apps that people actually use!</p>
+
+  <br/>
+
+  <h3>Connect with me professionally 👇</h3>
+  
   <p>
-    <a href="https://github.com/abhirajkochale"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/abhiraj-kochale-543284309/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:kochaleabhiraj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/abhirajkochale">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/abhiraj-kochale-543284309/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:kochaleabhiraj@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
+
 </div>
 
----
-
-### 🚀 About Me
-
-I build useful, cool apps that solve everyday problems. I enjoy turning simple ideas into robust products that people actually use, seamlessly bridging the gap between Machine Learning and modern Full-Stack architectures.
+<br/>
 
 ---
 
-### 🛠️ Currently Building
+<div align="center">
 
-- **Awesome Parents Portal** — A cross-platform web and native Android application handling admissions for 150+ parents.
-- **Expenzo** — An intelligent personal finance assistant and tracking dashboard.
-- Experimenting with real-time computer vision pipelines and NLP semantic search models.
+## 🌐 Live Deployments
+
+<a href="https://expenzo-kappa.vercel.app/">
+  <img src="https://img.shields.io/badge/💳_Expenzo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Expenzo" />
+</a>
+&nbsp;&nbsp;
+<a href="https://awesomekids-parents-portal.vercel.app/">
+  <img src="https://img.shields.io/badge/📱_Awesome_Kids_Portal-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Parents Portal" />
+</a>
+&nbsp;&nbsp;
+<a href="https://awesome-kids.vercel.app/">
+  <img src="https://img.shields.io/badge/🏫_Awesome_Kids_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Awesome Kids Website" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🧰 My Tech Stack
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/Expenzo">💳 Expenzo</a></h4>
+      <p>An intelligent financial assistant and expense tracker to keep your wallet happy.</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/AI-resume-screening">📄 AI Resume Screening</a></h4>
+      <p>Semantic search engine utilizing sentence-transformers to rank candidate resumes.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/fake_news_detector">📰 Fake News Detection</a></h4>
+      <p>NLP classification system using TF-IDF and Naive Bayes to verify articles.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhirajkochale/Face_Mask_Detection_System">😷 Face Mask Detection</a></h4>
+      <p>Real-time computer vision pipeline identifying mask compliance via live feeds.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <table>
   <tr>
@@ -56,41 +115,8 @@ I build useful, cool apps that solve everyday problems. I enjoy turning simple i
 
 ---
 
-### 🌐 Live Projects
+### 🎯 Current Focus
 
-Check out these deployed applications running in production right now:
-
-<a href="https://expenzo-kappa.vercel.app/"><img src="https://img.shields.io/badge/Expenzo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Expenzo" /></a>
-<a href="https://awesomekids-parents-portal.vercel.app/"><img src="https://img.shields.io/badge/Parents_Portal-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Parents Portal" /></a>
-<a href="https://awesome-kids.vercel.app/"><img src="https://img.shields.io/badge/Preschool_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Preschool Website" /></a>
-
----
-
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/abhirajkochale/Expenzo">💳 Expenzo</a></h4>
-      <p>An intelligent financial assistant and expense tracker to keep your wallet happy.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/abhirajkochale/AI-resume-screening">📄 AI Resume Screening</a></h4>
-      <p>Semantic search engine utilizing sentence-transformers to rank candidate resumes.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/abhirajkochale/fake_news_detector">📰 Fake News Detection</a></h4>
-      <p>NLP classification system using TF-IDF and Naive Bayes to verify articles.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/abhirajkochale/Face_Mask_Detection_System">😷 Face Mask Detection</a></h4>
-      <p>Real-time computer vision pipeline identifying mask compliance via live feeds.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- Building seamless, highly scalable cross-platform applications.
+- Integrating Machine Learning models into modern web interfaces.
+- Experimenting with advanced UI patterns and frontend optimization.
