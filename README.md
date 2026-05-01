@@ -26,30 +26,6 @@
 
 ---
 
-<div align="center">
-
-## 🌐 Live Productions
-
-*Click the buttons to interact with my deployed applications.*
-
-<a href="https://awesomekids-parents-portal.vercel.app/">
-  <img src="https://img.shields.io/badge/🔥_Awesome_Kids_Portal-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Parents Portal" />
-</a>
-&nbsp;&nbsp;
-<a href="https://expenzo-kappa.vercel.app/">
-  <img src="https://img.shields.io/badge/💸_Expenzo_Finance_App-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Expenzo" />
-</a>
-&nbsp;&nbsp;
-<a href="https://awesome-kids.vercel.app/">
-  <img src="https://img.shields.io/badge/🏫_Awesome_Kids_School_Site-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="School Site" />
-</a>
-
-</div>
-
-<br/>
-
----
-
 ## 💻 Tech Stack & Arsenal
 
 <div align="center">
@@ -71,6 +47,25 @@
 ## 🚀 Highlighted Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Awesome Kids Parents Portal</h3>
+      <p>Live preschool parent portal used by 150+ users for seamless admission and management.</p>
+      <a href="https://awesomekids-parents-portal.vercel.app/">
+        <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/abhirajkochale/Awesome_parents">
+        <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 Awesome Kids Preschool Site</h3>
+      <p>Live preschool public-facing website optimized for fast performance and modern UI.</p>
+      <a href="https://awesome-kids.vercel.app/">
+        <img src="https://img.shields.io/badge/🌍_Live_Site-2EA043?style=for-the-badge" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💳 Expenzo</h3>
@@ -107,38 +102,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Developer Analytics
-
-<div align="center">
-  <!-- GitHub Trophies (Highly Interactive Visuals) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhirajkochale&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirajkochale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajkochale&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- The highly interactive contribution snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhirajkochale/abhirajkochale/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhirajkochale/abhirajkochale/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhirajkochale/abhirajkochale/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" />
-</div>
