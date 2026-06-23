@@ -43,7 +43,6 @@
 ## 💻 Tech Stack & Arsenal
 
 <div align="center">
-  <p><i>Hover over the icons to see the tech!</i></p>
 
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,js,html,css&perline=10" alt="Languages" />
