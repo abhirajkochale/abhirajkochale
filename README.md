@@ -67,7 +67,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Awesome Kids Parents Portal</h3>
-      <p>Live preschool parent portal used by 150+ users for seamless admission and management.</p>
+      <p>Live preschool parent portal used by 250+ users for seamless admission and management.</p>
       <a href="https://awesomekids-parents-portal.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
       </a>
