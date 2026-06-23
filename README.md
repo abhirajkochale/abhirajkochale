@@ -73,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhirajkochale&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhirajkochale&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
 </div>
 
 ---
