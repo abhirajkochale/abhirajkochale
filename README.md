@@ -54,9 +54,6 @@
       <a href="https://awesomekids-parents-portal.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
       </a>
-      <a href="https://github.com/abhirajkochale/Awesome_parents" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🏫 Awesome Kids Preschool Site</h3>
