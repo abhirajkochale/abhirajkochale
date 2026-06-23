@@ -108,9 +108,12 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📰 Fake News Detection</h3>
-      <p>NLP classification system using TF-IDF and Naive Bayes to instantly verify the authenticity of news articles.</p>
-      <a href="https://github.com/abhirajkochale/fake_news_detector" target="_blank" rel="noopener noreferrer">
+      <h3>🔍 SubTract</h3>
+      <p>Free AI infrastructure audit tool for startups — scans your tech stack and calculates money wasted on duplicate subscriptions and ghost seats.</p>
+      <a href="https://subtract-gilt.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/abhirajkochale/subtract" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
