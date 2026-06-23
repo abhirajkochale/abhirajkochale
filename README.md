@@ -30,15 +30,6 @@
 
 ---
 
-## 👋 About Me
-
-- 🎓 CS student passionate about shipping real-world products people actually use
-- 🔭 Currently working on: full-stack web platforms with AI integrations
-- 🌱 Currently learning: Large Language Models, System Design & Cloud Architecture
-- 💼 Open to: Internships & Freelance opportunities
-- ⚡ Fun fact: I built a live preschool portal used by 150+ parents before finishing my degree
-
----
 
 ## 💻 Tech Stack & Arsenal
 
