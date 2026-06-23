@@ -92,16 +92,6 @@
       </a>
     </td>
     <td width="50%" valign="top">
-       <td width="50%" valign="top">
-      <h3>🔍 SubTract</h3>
-      <p>Free AI infrastructure audit tool for startups — scans your tech stack and calculates money wasted on duplicate subscriptions and ghost seats.</p>
-      <a href="https://subtract-gilt.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/abhirajkochale/subtract" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-      </a>
-    </td>
       <h3>📄 AI Resume Screening</h3>
       <p>Interactive semantic search engine utilizing sentence-transformers to instantly rank candidate resumes against JDs.</p>
       <a href="https://github.com/abhirajkochale/AI-resume-screening" target="_blank" rel="noopener noreferrer">
@@ -117,9 +107,18 @@
         <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🔍 SubTract</h3>
+      <p>Free AI infrastructure audit tool for startups — scans your tech stack and calculates money wasted on duplicate subscriptions and ghost seats.</p>
+      <a href="https://subtract-gilt.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/🌍_Live_App-2EA043?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/abhirajkochale/subtract" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Source-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 🐍 Contribution Snake
